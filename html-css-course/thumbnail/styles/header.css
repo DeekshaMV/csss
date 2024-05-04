@@ -1,0 +1,10 @@
+.header{
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+
+}
+.left-section{
+    background-color: green;
+    flex: 1;
+}
